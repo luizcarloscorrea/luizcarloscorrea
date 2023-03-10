@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**luizcarloscorrea/luizcarloscorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                     Olá 👋, eu sou Luiz Carlos
+                                                     
+                                           Um dedicado estudante backend brasileiro amante de Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando ADS e fazendos cursos de Java
+- 🌱 Desenvolvimento em Java
+- 👯 Busco por parcerias e networking para desenvolvimento de projetos em Java
+- 🤔 Todos os meus projetos estão disponíveis em: https://github.com/luizcarloscorrea
+- 📫 Entre em contato comigo: luizcarloscorrea@outlook.com
+- 📄 Um pouco mais sobre minhas experiências: https://www.linkedin.com/in/luizcarloscorreadev/
+- ⚡ Curiosidade: Me amarro em ciclismo e videogames
+
+
+                                             🤔 Estou a procura de Estágio em Java 🤔
+
